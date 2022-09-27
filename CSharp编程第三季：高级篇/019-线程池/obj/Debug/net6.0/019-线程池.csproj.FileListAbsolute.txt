@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\bin\Debug\net6.0\019-线程池.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\bin\Debug\net6.0\019-线程池.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\bin\Debug\net6.0\019-线程池.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\bin\Debug\net6.0\019-线程池.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\bin\Debug\net6.0\019-线程池.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\refint\019-线程池.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\019-线程池.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\019-线程池\obj\Debug\net6.0\ref\019-线程池.dll

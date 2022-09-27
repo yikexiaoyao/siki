@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\014-索引器\bin\Debug\014-索引器.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\014-索引器\bin\Debug\014-索引器.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\014-索引器\bin\Debug\014-索引器.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\014-索引器\obj\Debug\014-索引器.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\014-索引器\obj\Debug\014-索引器.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\014-索引器\obj\Debug\014-索引器.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\014-索引器\obj\Debug\014-索引器.csprojAssemblyReference.cache

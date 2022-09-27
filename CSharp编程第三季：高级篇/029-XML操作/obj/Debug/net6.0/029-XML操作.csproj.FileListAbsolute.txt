@@ -1,0 +1,16 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\bin\Debug\net6.0\Skills.xml
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\bin\Debug\net6.0\029-XML操作.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\bin\Debug\net6.0\029-XML操作.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\bin\Debug\net6.0\029-XML操作.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\bin\Debug\net6.0\029-XML操作.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\bin\Debug\net6.0\029-XML操作.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\refint\029-XML操作.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\029-XML操作.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\029-XML操作\obj\Debug\net6.0\ref\029-XML操作.dll

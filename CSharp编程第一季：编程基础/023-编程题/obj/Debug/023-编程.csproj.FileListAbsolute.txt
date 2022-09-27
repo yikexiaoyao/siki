@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\023-编程题\bin\Debug\023-编程题.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\023-编程题\bin\Debug\023-编程题.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\023-编程题\bin\Debug\023-编程题.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\023-编程题\obj\Debug\023-编程.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\023-编程题\obj\Debug\023-编程.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\023-编程题\obj\Debug\023-编程题.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\023-编程题\obj\Debug\023-编程题.pdb

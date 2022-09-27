@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\006-变量研究\bin\Debug\006-变量研究.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\006-变量研究\bin\Debug\006-变量研究.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\006-变量研究\bin\Debug\006-变量研究.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\006-变量研究\obj\Debug\006-变量研究.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\006-变量研究\obj\Debug\006-变量研究.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\006-变量研究\obj\Debug\006-变量研究.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\006-变量研究\obj\Debug\006-变量研究.pdb

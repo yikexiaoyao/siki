@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\030-字符串\bin\Debug\030-字符串.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\030-字符串\bin\Debug\030-字符串.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\030-字符串\bin\Debug\030-字符串.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\030-字符串\obj\Debug\030-字符串.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\030-字符串\obj\Debug\030-字符串.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\030-字符串\obj\Debug\030-字符串.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\030-字符串\obj\Debug\030-字符串.csprojAssemblyReference.cache

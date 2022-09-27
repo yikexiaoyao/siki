@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\005-属性\bin\Debug\005-属性.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\005-属性\bin\Debug\005-属性.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\005-属性\bin\Debug\005-属性.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\005-属性\obj\Debug\005-属性.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\005-属性\obj\Debug\005-属性.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\005-属性\obj\Debug\005-属性.pdb

@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\020-MyList列表\bin\Debug\020-MyList列表.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\020-MyList列表\bin\Debug\020-MyList列表.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\020-MyList列表\bin\Debug\020-MyList列表.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\020-MyList列表\obj\Debug\020-MyList列表.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\020-MyList列表\obj\Debug\020-MyList列表.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\020-MyList列表\obj\Debug\020-MyList列表.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\020-MyList列表\obj\Debug\020-MyList列表.pdb

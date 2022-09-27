@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\bin\Debug\net6.0\015-线程Thread.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\bin\Debug\net6.0\015-线程Thread.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\bin\Debug\net6.0\015-线程Thread.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\bin\Debug\net6.0\015-线程Thread.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\bin\Debug\net6.0\015-线程Thread.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\refint\015-线程Thread.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\015-线程Thread.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\015-线程Thread\obj\Debug\net6.0\ref\015-线程Thread.dll

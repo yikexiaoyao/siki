@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0MbroUr3lu/qEV4393L0xuv5A1EVK01j8Rdnq2iBBgKz9B6eunRULk/gdZkVvBV468qbmHdqXXfyBwCWhj0ZEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\华硕\\source\\repos\\siki\\CSharp编程第三季：高级篇\\030-Json操作\\030-Json操作.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\华硕\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

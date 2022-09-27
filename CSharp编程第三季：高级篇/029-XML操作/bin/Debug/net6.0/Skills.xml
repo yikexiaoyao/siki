@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<skills>
+	<skill>
+		<id>1</id>
+		<name lang="cn">大威天龙</name>
+		<damage>130</damage>
+	</skill>
+	<skill>
+		<id>2</id>
+		<name lang="cn">降龙十八掌</name>
+		<damage>250</damage>
+	</skill>
+	<skill>
+		<id>3</id>
+		<name lang="cn">葵花宝典</name>
+		<damage>380</damage>
+	</skill>
+</skills>

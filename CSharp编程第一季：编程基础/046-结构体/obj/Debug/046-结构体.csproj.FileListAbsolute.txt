@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\046-结构体\bin\Debug\046-结构体.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\046-结构体\bin\Debug\046-结构体.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\046-结构体\bin\Debug\046-结构体.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\046-结构体\obj\Debug\046-结构体.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\046-结构体\obj\Debug\046-结构体.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\046-结构体\obj\Debug\046-结构体.pdb

@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\047-结构体-Vector3\bin\Debug\047-结构体-Vector3.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\047-结构体-Vector3\bin\Debug\047-结构体-Vector3.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\047-结构体-Vector3\bin\Debug\047-结构体-Vector3.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\047-结构体-Vector3\obj\Debug\047-结构体-Vector3.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\047-结构体-Vector3\obj\Debug\047-结构体-Vector3.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\047-结构体-Vector3\obj\Debug\047-结构体-Vector3.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\047-结构体-Vector3\obj\Debug\047-结构体-Vector3.pdb

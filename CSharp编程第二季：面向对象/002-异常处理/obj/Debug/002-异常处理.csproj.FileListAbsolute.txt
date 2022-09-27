@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\002-异常处理\bin\Debug\002-异常处理.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\002-异常处理\bin\Debug\002-异常处理.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\002-异常处理\bin\Debug\002-异常处理.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\002-异常处理\obj\Debug\002-异常处理.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\002-异常处理\obj\Debug\002-异常处理.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\002-异常处理\obj\Debug\002-异常处理.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\002-异常处理\obj\Debug\002-异常处理.pdb

@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\bin\Debug\net6.0\017-前台线程和后台线程.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\bin\Debug\net6.0\017-前台线程和后台线程.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\bin\Debug\net6.0\017-前台线程和后台线程.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\bin\Debug\net6.0\017-前台线程和后台线程.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\bin\Debug\net6.0\017-前台线程和后台线程.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\refint\017-前台线程和后台线程.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\017-前台线程和后台线程.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\017-前台线程和后台线程\obj\Debug\net6.0\ref\017-前台线程和后台线程.dll

@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\009-抽象类\bin\Debug\009-抽象类.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\009-抽象类\bin\Debug\009-抽象类.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\009-抽象类\bin\Debug\009-抽象类.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\009-抽象类\obj\Debug\009-抽象类.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\009-抽象类\obj\Debug\009-抽象类.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\009-抽象类\obj\Debug\009-抽象类.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\009-抽象类\obj\Debug\009-抽象类.pdb

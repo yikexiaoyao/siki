@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\006-值类型和引用类型的内存存储\bin\Debug\006-值类型和引用类型的内存存储.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\006-值类型和引用类型的内存存储\bin\Debug\006-值类型和引用类型的内存存储.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\006-值类型和引用类型的内存存储\bin\Debug\006-值类型和引用类型的内存存储.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\006-值类型和引用类型的内存存储\obj\Debug\006-值类型和引用类型的内存存储.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\006-值类型和引用类型的内存存储\obj\Debug\006-值类型和引用类型的内存存储.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\006-值类型和引用类型的内存存储\obj\Debug\006-值类型和引用类型的内存存储.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\006-值类型和引用类型的内存存储\obj\Debug\006-值类型和引用类型的内存存储.pdb

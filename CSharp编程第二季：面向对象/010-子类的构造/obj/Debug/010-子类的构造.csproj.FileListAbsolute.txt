@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\010-子类的构造\bin\Debug\010-子类的构造.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\010-子类的构造\bin\Debug\010-子类的构造.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\010-子类的构造\bin\Debug\010-子类的构造.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\010-子类的构造\obj\Debug\010-子类的构造.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\010-子类的构造\obj\Debug\010-子类的构造.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\010-子类的构造\obj\Debug\010-子类的构造.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\010-子类的构造\obj\Debug\010-子类的构造.csprojAssemblyReference.cache

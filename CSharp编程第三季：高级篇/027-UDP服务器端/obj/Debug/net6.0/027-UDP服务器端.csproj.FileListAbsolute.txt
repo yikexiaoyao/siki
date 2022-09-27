@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\bin\Debug\net6.0\027-UDP服务器端.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\bin\Debug\net6.0\027-UDP服务器端.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\bin\Debug\net6.0\027-UDP服务器端.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\bin\Debug\net6.0\027-UDP服务器端.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\bin\Debug\net6.0\027-UDP服务器端.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\refint\027-UDP服务器端.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\027-UDP服务器端.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\027-UDP服务器端\obj\Debug\net6.0\ref\027-UDP服务器端.dll

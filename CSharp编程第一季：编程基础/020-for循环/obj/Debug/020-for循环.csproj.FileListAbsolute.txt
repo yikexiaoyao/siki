@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\020-for循环\bin\Debug\020-for循环.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\020-for循环\bin\Debug\020-for循环.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\020-for循环\bin\Debug\020-for循环.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\020-for循环\obj\Debug\020-for循环.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\020-for循环\obj\Debug\020-for循环.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\020-for循环\obj\Debug\020-for循环.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\020-for循环\obj\Debug\020-for循环.pdb

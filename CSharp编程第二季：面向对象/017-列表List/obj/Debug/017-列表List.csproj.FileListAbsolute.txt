@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\017-列表List\bin\Debug\017-列表List.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\017-列表List\bin\Debug\017-列表List.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\017-列表List\bin\Debug\017-列表List.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\017-列表List\obj\Debug\017-列表List.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\017-列表List\obj\Debug\017-列表List.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\017-列表List\obj\Debug\017-列表List.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\017-列表List\obj\Debug\017-列表List.pdb

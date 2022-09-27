@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "023-文件操作-流/1.0.0": {
+        "runtime": {
+          "023-文件操作-流.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "023-文件操作-流/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

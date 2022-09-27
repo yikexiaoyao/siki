@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\bin\Debug\net6.0\025-TCP服务器端TcpServer.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\bin\Debug\net6.0\025-TCP服务器端TcpServer.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\bin\Debug\net6.0\025-TCP服务器端TcpServer.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\bin\Debug\net6.0\025-TCP服务器端TcpServer.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\bin\Debug\net6.0\025-TCP服务器端TcpServer.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\refint\025-TCP服务器端TcpServer.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\025-TCP服务器端TcpServer.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\025-TCP服务器端TcpServer\obj\Debug\net6.0\ref\025-TCP服务器端TcpServer.dll

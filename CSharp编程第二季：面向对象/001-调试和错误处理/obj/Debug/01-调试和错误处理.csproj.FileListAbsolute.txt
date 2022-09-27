@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\CSharp编程第二季：面向对象\bin\Debug\CSharp编程第二季：面向对象.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\CSharp编程第二季：面向对象\bin\Debug\CSharp编程第二季：面向对象.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\CSharp编程第二季：面向对象\bin\Debug\CSharp编程第二季：面向对象.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\CSharp编程第二季：面向对象\obj\Debug\01-调试和错误处理.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\CSharp编程第二季：面向对象\obj\Debug\01-调试和错误处理.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\CSharp编程第二季：面向对象\obj\Debug\CSharp编程第二季：面向对象.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\CSharp编程第二季：面向对象\obj\Debug\CSharp编程第二季：面向对象.pdb

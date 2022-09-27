@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\bin\Debug\net6.0\003-字符串StringBuilder.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\bin\Debug\net6.0\003-字符串StringBuilder.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\bin\Debug\net6.0\003-字符串StringBuilder.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\bin\Debug\net6.0\003-字符串StringBuilder.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\bin\Debug\net6.0\003-字符串StringBuilder.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\refint\003-字符串StringBuilder.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\003-字符串StringBuilder.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\003-字符串StringBuilder\obj\Debug\net6.0\ref\003-字符串StringBuilder.dll

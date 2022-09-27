@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\012-静态-static\bin\Debug\012-静态-static.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\012-静态-static\bin\Debug\012-静态-static.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\012-静态-static\bin\Debug\012-静态-static.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\012-静态-static\obj\Debug\012-静态-static.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\012-静态-static\obj\Debug\012-静态-static.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\012-静态-static\obj\Debug\012-静态-static.pdb

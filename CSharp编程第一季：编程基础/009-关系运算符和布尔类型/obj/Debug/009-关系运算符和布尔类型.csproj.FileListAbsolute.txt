@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\009-关系运算符和布尔类型\bin\Debug\009-关系运算符和布尔类型.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\009-关系运算符和布尔类型\bin\Debug\009-关系运算符和布尔类型.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\009-关系运算符和布尔类型\bin\Debug\009-关系运算符和布尔类型.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\009-关系运算符和布尔类型\obj\Debug\009-关系运算符和布尔类型.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\009-关系运算符和布尔类型\obj\Debug\009-关系运算符和布尔类型.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\009-关系运算符和布尔类型\obj\Debug\009-关系运算符和布尔类型.pdb

@@ -1,0 +1,1 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\022-变量的作用域\obj\Debug\022-变量的作用域.csproj.CoreCompileInputs.cache

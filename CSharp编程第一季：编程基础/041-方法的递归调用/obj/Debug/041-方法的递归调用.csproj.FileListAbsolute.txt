@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\041-方法的递归调用\bin\Debug\041-方法的递归调用.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\041-方法的递归调用\bin\Debug\041-方法的递归调用.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\041-方法的递归调用\bin\Debug\041-方法的递归调用.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\041-方法的递归调用\obj\Debug\041-方法的递归调用.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\041-方法的递归调用\obj\Debug\041-方法的递归调用.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\041-方法的递归调用\obj\Debug\041-方法的递归调用.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\041-方法的递归调用\obj\Debug\041-方法的递归调用.pdb

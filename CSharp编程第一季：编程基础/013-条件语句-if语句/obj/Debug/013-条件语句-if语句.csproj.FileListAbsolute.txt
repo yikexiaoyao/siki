@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\013-条件语句-if语句\bin\Debug\013-条件语句-if语句.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\013-条件语句-if语句\bin\Debug\013-条件语句-if语句.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\013-条件语句-if语句\bin\Debug\013-条件语句-if语句.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\013-条件语句-if语句\obj\Debug\013-条件语句-if语句.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\013-条件语句-if语句\obj\Debug\013-条件语句-if语句.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\013-条件语句-if语句\obj\Debug\013-条件语句-if语句.pdb

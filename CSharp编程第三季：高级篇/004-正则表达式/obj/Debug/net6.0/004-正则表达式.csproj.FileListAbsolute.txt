@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\bin\Debug\net6.0\004-正则表达式.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\bin\Debug\net6.0\004-正则表达式.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\bin\Debug\net6.0\004-正则表达式.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\bin\Debug\net6.0\004-正则表达式.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\bin\Debug\net6.0\004-正则表达式.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\refint\004-正则表达式.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\004-正则表达式.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\004-正则表达式\obj\Debug\net6.0\ref\004-正则表达式.dll

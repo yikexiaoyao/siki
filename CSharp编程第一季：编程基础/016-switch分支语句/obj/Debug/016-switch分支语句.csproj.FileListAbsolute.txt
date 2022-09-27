@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\016-switch分支语句\bin\Debug\016-switch分支语句.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\016-switch分支语句\bin\Debug\016-switch分支语句.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\016-switch分支语句\bin\Debug\016-switch分支语句.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\016-switch分支语句\obj\Debug\016-switch分支语句.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\016-switch分支语句\obj\Debug\016-switch分支语句.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\016-switch分支语句\obj\Debug\016-switch分支语句.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\016-switch分支语句\obj\Debug\016-switch分支语句.pdb

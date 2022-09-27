@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\bin\Debug\net6.0\020-任务.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\bin\Debug\net6.0\020-任务.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\bin\Debug\net6.0\020-任务.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\bin\Debug\net6.0\020-任务.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\bin\Debug\net6.0\020-任务.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\refint\020-任务.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\020-任务.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\020-任务\obj\Debug\net6.0\ref\020-任务.dll

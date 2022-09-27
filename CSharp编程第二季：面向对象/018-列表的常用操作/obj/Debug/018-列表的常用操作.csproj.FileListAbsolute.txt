@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\018-列表的常用操作\bin\Debug\018-列表的常用操作.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\018-列表的常用操作\bin\Debug\018-列表的常用操作.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\018-列表的常用操作\bin\Debug\018-列表的常用操作.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\018-列表的常用操作\obj\Debug\018-列表的常用操作.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\018-列表的常用操作\obj\Debug\018-列表的常用操作.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\018-列表的常用操作\obj\Debug\018-列表的常用操作.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\018-列表的常用操作\obj\Debug\018-列表的常用操作.pdb

@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\019-泛型\bin\Debug\019-泛型.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\019-泛型\bin\Debug\019-泛型.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\019-泛型\bin\Debug\019-泛型.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\019-泛型\obj\Debug\019-泛型.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\019-泛型\obj\Debug\019-泛型.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\019-泛型\obj\Debug\019-泛型.pdb

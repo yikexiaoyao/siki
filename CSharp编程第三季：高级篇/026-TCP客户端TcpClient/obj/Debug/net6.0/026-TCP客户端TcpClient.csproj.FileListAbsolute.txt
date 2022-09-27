@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\bin\Debug\net6.0\026-TCP客户端TcpClient.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\bin\Debug\net6.0\026-TCP客户端TcpClient.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\bin\Debug\net6.0\026-TCP客户端TcpClient.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\bin\Debug\net6.0\026-TCP客户端TcpClient.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\bin\Debug\net6.0\026-TCP客户端TcpClient.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\refint\026-TCP客户端TcpClient.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\026-TCP客户端TcpClient.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\026-TCP客户端TcpClient\obj\Debug\net6.0\ref\026-TCP客户端TcpClient.dll

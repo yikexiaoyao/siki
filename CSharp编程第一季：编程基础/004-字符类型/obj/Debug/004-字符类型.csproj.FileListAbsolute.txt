@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\004-字符类型\bin\Debug\004-字符类型.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\004-字符类型\bin\Debug\004-字符类型.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\004-字符类型\bin\Debug\004-字符类型.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\004-字符类型\obj\Debug\004-字符类型.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\004-字符类型\obj\Debug\004-字符类型.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\004-字符类型\obj\Debug\004-字符类型.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\004-字符类型\obj\Debug\004-字符类型.pdb

@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\038-参数数组\bin\Debug\038-参数数组.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\038-参数数组\bin\Debug\038-参数数组.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\038-参数数组\bin\Debug\038-参数数组.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\038-参数数组\obj\Debug\038-参数数组.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\038-参数数组\obj\Debug\038-参数数组.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\038-参数数组\obj\Debug\038-参数数组.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\038-参数数组\obj\Debug\038-参数数组.pdb

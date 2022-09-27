@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\bin\Debug\net6.0\008-Func委托.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\bin\Debug\net6.0\008-Func委托.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\bin\Debug\net6.0\008-Func委托.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\bin\Debug\net6.0\008-Func委托.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\bin\Debug\net6.0\008-Func委托.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\refint\008-Func委托.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\008-Func委托.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\008-Func委托\obj\Debug\net6.0\ref\008-Func委托.dll

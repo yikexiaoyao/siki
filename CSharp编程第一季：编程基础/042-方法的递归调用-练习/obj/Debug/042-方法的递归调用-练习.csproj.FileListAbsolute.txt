@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\042-方法的递归调用-练习\bin\Debug\042-方法的递归调用-练习.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\042-方法的递归调用-练习\bin\Debug\042-方法的递归调用-练习.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\042-方法的递归调用-练习\bin\Debug\042-方法的递归调用-练习.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\042-方法的递归调用-练习\obj\Debug\042-方法的递归调用-练习.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\042-方法的递归调用-练习\obj\Debug\042-方法的递归调用-练习.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\042-方法的递归调用-练习\obj\Debug\042-方法的递归调用-练习.pdb

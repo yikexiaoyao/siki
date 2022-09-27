@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\011-只读字段readonly\bin\Debug\011-只读字段readonly.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\011-只读字段readonly\bin\Debug\011-只读字段readonly.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\011-只读字段readonly\bin\Debug\011-只读字段readonly.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\011-只读字段readonly\obj\Debug\011-只读字段readonly.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\011-只读字段readonly\obj\Debug\011-只读字段readonly.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\011-只读字段readonly\obj\Debug\011-只读字段readonly.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\011-只读字段readonly\obj\Debug\011-只读字段readonly.pdb

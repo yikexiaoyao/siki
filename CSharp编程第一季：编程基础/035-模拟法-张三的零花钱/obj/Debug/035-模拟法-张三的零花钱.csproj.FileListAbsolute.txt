@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\035-模拟法-张三的零花钱\bin\Debug\035-模拟法-张三的零花钱.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\035-模拟法-张三的零花钱\bin\Debug\035-模拟法-张三的零花钱.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\035-模拟法-张三的零花钱\bin\Debug\035-模拟法-张三的零花钱.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\035-模拟法-张三的零花钱\obj\Debug\035-模拟法-张三的零花钱.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\035-模拟法-张三的零花钱\obj\Debug\035-模拟法-张三的零花钱.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\035-模拟法-张三的零花钱\obj\Debug\035-模拟法-张三的零花钱.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\035-模拟法-张三的零花钱\obj\Debug\035-模拟法-张三的零花钱.pdb

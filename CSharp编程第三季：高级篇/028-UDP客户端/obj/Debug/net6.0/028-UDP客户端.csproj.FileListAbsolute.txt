@@ -1,0 +1,15 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\bin\Debug\net6.0\028-UDP客户端.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\bin\Debug\net6.0\028-UDP客户端.deps.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\bin\Debug\net6.0\028-UDP客户端.runtimeconfig.json
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\bin\Debug\net6.0\028-UDP客户端.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\bin\Debug\net6.0\028-UDP客户端.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.csproj.AssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.AssemblyInfoInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.AssemblyInfo.cs
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\refint\028-UDP客户端.dll
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\028-UDP客户端.genruntimeconfig.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第三季：高级篇\028-UDP客户端\obj\Debug\net6.0\ref\028-UDP客户端.dll

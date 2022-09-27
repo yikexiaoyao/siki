@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\029-数组\bin\Debug\029-数组.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\029-数组\bin\Debug\029-数组.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\029-数组\bin\Debug\029-数组.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\029-数组\obj\Debug\029-数组.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\029-数组\obj\Debug\029-数组.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第一季\029-数组\obj\Debug\029-数组.pdb

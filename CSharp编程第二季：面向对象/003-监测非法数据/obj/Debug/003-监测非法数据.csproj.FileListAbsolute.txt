@@ -1,0 +1,6 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\003-监测非法数据\bin\Debug\003-监测非法数据.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\003-监测非法数据\bin\Debug\003-监测非法数据.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\003-监测非法数据\bin\Debug\003-监测非法数据.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\003-监测非法数据\obj\Debug\003-监测非法数据.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\003-监测非法数据\obj\Debug\003-监测非法数据.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\003-监测非法数据\obj\Debug\003-监测非法数据.pdb

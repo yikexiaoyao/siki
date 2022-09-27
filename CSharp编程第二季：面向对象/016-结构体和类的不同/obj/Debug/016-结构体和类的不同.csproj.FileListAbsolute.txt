@@ -1,0 +1,7 @@
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\016-结构体和类的不同\bin\Debug\016-结构体和类的不同.exe.config
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\016-结构体和类的不同\bin\Debug\016-结构体和类的不同.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\016-结构体和类的不同\bin\Debug\016-结构体和类的不同.pdb
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\016-结构体和类的不同\obj\Debug\016-结构体和类的不同.csprojAssemblyReference.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\016-结构体和类的不同\obj\Debug\016-结构体和类的不同.csproj.CoreCompileInputs.cache
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\016-结构体和类的不同\obj\Debug\016-结构体和类的不同.exe
+C:\Users\华硕\source\repos\siki\CSharp编程第二季：面向对象\016-结构体和类的不同\obj\Debug\016-结构体和类的不同.pdb
